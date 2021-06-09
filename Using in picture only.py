@@ -1,4 +1,4 @@
-# Developed by Amresh Ranjan.
+
 
 import cv2
 import numpy as np
